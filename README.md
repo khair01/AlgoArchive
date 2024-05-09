@@ -1,9 +1,19 @@
-Welcome to my LeetCode Solutions Repository!
+# GFG and LeetCode Solutions
 
-This repository contains my solutions to various LeetCode problems implemented in C++. LeetCode is a platform where you can practice coding problems, prepare for technical interviews, and improve your coding skills.
+Welcome to **AlgoArchive**, a comprehensive repository where I share my solutions to various coding challenges from [GeeksforGeeks](https://www.geeksforgeeks.org/) and [LeetCode](https://leetcode.com/). This repository aims to help others prepare for technical interviews and improve their problem-solving skills by providing detailed solutions.
+## How to Use This Repository
 
-In this repository, you'll find organized folders for different problem categories such as arrays, strings, linked lists, trees, graphs, dynamic programming, and more. Each problem solution includes a detailed explanation of the approach and the code implementation in C++.
+- **Browse**: Navigate through the folders to find solutions categorized by the platform and difficulty level.
+- **Search**: Use the repository search to find specific problems by title or identifier.
 
-Feel free to explore the solutions, suggest improvements, or ask questions about any of the problems. If you find these solutions helpful, don't forget to give this repository a star!
+## Disclaimer
 
-Happy Coding! 🚀
+The solutions provided in this repository are based on my personal approach to solving these problems and may not always reflect the most optimal solutions. I encourage you to use these solutions responsibly and always aim to understand the underlying concepts.
+
+## Contact
+
+If you have any suggestions or questions, feel free to contact me at khairs4200@gmail.com
+
+Thank you for visiting **AlgoArchive**!
+
+
