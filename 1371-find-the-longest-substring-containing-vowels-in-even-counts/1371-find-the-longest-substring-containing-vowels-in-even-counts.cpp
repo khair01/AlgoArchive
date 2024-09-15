@@ -8,7 +8,8 @@ public:
         string curr = "00000";
 
         map[curr] = -1;
-        int result = 0;
+        // int result = INT_MIN; // this will not pass an edge case of "a"
+        int result =  0;
 
         for(int i = 0 ; i < s.size() ; i++){
 
