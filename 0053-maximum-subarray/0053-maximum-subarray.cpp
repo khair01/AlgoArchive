@@ -7,7 +7,7 @@ public:
         if(nums.size() == 1){
             return nums[0];
         }
-        for(int i = 0 ; i < nums.size() ; i++){
+        for(int i = 1 ; i < nums.size() ; i++){
 
             maxarray = max(maxarray + nums[i], nums[i]);
             res = max(maxarray,res);
